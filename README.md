@@ -56,7 +56,7 @@ This is a modern movie discovery web application that allows users to search thr
 
 ### Links
 
-- Live Site URL: [Add your deployment URL]
+- Live Site URL: [Movie App](https://movie-discovery-app-ku9r.vercel.app/)
 
 ## My Process
 

@@ -76,7 +76,7 @@ const App = () => {
     setErrorMessage("");
 
     try {
-      const endpoint = `/api/trending/movie/day`; // or 'day'
+      const endpoint = `${API_BASE_URL}/trending/movie/day`; // or 'day'
       const response = await fetch(endpoint, API_OPTIONS);
 
       if (!response.ok) {
